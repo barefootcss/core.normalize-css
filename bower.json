@@ -1,0 +1,18 @@
+{
+  "name": "bare-normalize-css",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The normalize-css module is a clone of normalize.css by Nicolas Gallagher.",
+  "main": "_core.normalize-css.scss",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/core.normalize-css"
+}
+  
